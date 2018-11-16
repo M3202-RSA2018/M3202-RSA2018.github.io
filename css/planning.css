@@ -4,6 +4,6 @@
   margin-right: 1%;
 }
 
-.row:not(table) {
+.col-md-offset-1:not(table) {
   display: none;
 }
