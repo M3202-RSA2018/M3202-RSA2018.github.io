@@ -4,6 +4,6 @@
   margin-right: 1%;
 }
 
-#text {
+.container :not(table) {
   display: none;
 }
