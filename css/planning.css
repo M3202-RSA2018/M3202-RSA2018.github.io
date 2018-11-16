@@ -4,6 +4,10 @@
   margin-right: 1%;
 }
 
-.hidden:not(table) {
+.hidden {
   display: none;
+}
+
+.planning {
+  visibility: visible; !important
 }
