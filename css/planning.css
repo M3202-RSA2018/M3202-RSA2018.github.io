@@ -4,6 +4,6 @@
   margin-right: 1%;
 }
 
-.col-md-offset-1:not(table) {
+.hidden:not(table) {
   display: none;
 }
