@@ -23,11 +23,11 @@ description: Sous quelles conditions le système RSA peut-il être garant de la 
 
 # List of links in the navigation bar
 navbar-links:
-  Index: "/"
+  Index:
   Organisation:
-    - Planning prévisionnel: "/2018-11-14-planning"
+    - Planning prévisionnel: "2018-11-14-planning"
     - Planning rétrospectif:
-    - Compte Rendus: "/tags/#cr"
+    - Compte Rendus: "tags/#cr"
   Rapport:
 
 # Image to show in the navigation bar - image must be a square (width = height)
